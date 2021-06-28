@@ -1,0 +1,3 @@
+Este codigo esta diseñado y escrito en C# en el IDE Visual studio 2019
+
+Se adjunta la extencion de lenguage support para usar Antrl e implementar las nudget adecuadas segun los manuales vistos. 
